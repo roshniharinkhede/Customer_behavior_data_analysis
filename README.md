@@ -223,4 +223,4 @@ This project demonstrates how Python, SQL, and Power BI can be combined to analy
 
 ---
 
-*This project is suitable for beginner to entry-level data analyst roles and can be showcased on GitHub and LinkedIn.*
+
